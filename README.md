@@ -1,5 +1,10 @@
 # Profiling Workflow Skill
 
+<p>
+  <a href="#中文"><img alt="中文" src="https://img.shields.io/badge/README-中文-blue"></a>
+  <a href="#english"><img alt="English" src="https://img.shields.io/badge/README-English-gray"></a>
+</p>
+
 ## 中文
 
 `profiling-workflow` 是一个 Codex skill，用于自顶向下地分析 NVIDIA GPU profiling 结果。
@@ -65,6 +70,8 @@ cp -a SKILL.md references ~/.codex/skills/profiling-workflow/
 
 基于新的 profiling 项目更新 skill 前，请先阅读 `references/maintenance.md`。
 
+[Switch to English](#english)
+
 ## English
 
 `profiling-workflow` is a Codex skill for top-down NVIDIA GPU profiling.
@@ -129,3 +136,5 @@ After installation, use the skill when planning or reviewing GPU profiling work,
 - Keep project-specific scripts, paths, hardware values, and raw results outside the skill.
 
 See `references/maintenance.md` before updating the skill based on a new profiling project.
+
+[切换到中文](#中文)
