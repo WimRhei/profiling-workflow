@@ -1,8 +1,8 @@
 # Profiling Workflow Skill
 
-<p>
-  <a href="#中文"><img alt="中文" src="https://img.shields.io/badge/README-中文-blue"></a>
-  <a href="#english"><img alt="English" src="https://img.shields.io/badge/README-English-gray"></a>
+<p align="center">
+  <a href="#中文"><img alt="中文" src="https://img.shields.io/badge/语言-中文-111827?style=for-the-badge"></a>
+  <a href="#english"><img alt="English" src="https://img.shields.io/badge/Language-English-6B7280?style=for-the-badge"></a>
 </p>
 
 ## 中文
